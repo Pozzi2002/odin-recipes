@@ -1,0 +1,15 @@
+body{
+margin-left: 50px;
+margin-right: 50px;
+}
+h2,
+h1 {
+text-align: center;
+color: white;
+background-color: #d54215;
+}
+#chel {
+border :3px solid #114388;
+margin: 0px auto;
+display: block;
+}
